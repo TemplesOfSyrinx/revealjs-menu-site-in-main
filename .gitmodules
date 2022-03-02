@@ -1,3 +1,6 @@
 [submodule "revealjs"]
 	path = revealjs
 	url = https://github.com/hakimel/reveal.js.git
+[submodule "revealjs-menu"]
+	path = revealjs-menu
+	url = https://github.com/denehyg/reveal.js-menu.git
